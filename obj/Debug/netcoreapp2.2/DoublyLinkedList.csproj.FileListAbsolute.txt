@@ -1,0 +1,11 @@
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/bin/Debug/netcoreapp2.2/DoublyLinkedList.deps.json
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/bin/Debug/netcoreapp2.2/DoublyLinkedList.runtimeconfig.json
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/bin/Debug/netcoreapp2.2/DoublyLinkedList.runtimeconfig.dev.json
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/bin/Debug/netcoreapp2.2/DoublyLinkedList.dll
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/bin/Debug/netcoreapp2.2/DoublyLinkedList.pdb
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/obj/Debug/netcoreapp2.2/DoublyLinkedList.csprojAssemblyReference.cache
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/obj/Debug/netcoreapp2.2/DoublyLinkedList.csproj.CoreCompileInputs.cache
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/obj/Debug/netcoreapp2.2/DoublyLinkedList.AssemblyInfoInputs.cache
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/obj/Debug/netcoreapp2.2/DoublyLinkedList.AssemblyInfo.cs
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/obj/Debug/netcoreapp2.2/DoublyLinkedList.dll
+/Users/hanificicek/Desktop/CSharp/DoublyLinkedList/obj/Debug/netcoreapp2.2/DoublyLinkedList.pdb
